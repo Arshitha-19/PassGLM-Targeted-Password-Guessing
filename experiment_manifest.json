@@ -1,0 +1,20 @@
+{
+  "project": "TargetedPasswordResearch",
+  "data_policy": "synthetic_only",
+  "model": "Qwen/Qwen2.5-0.5B-Instruct",
+  "conditions": [
+    "pii",
+    "old",
+    "combined"
+  ],
+  "dataset_size": 10000,
+  "train_test_split": "80/20",
+  "metrics": [
+    "top_1",
+    "top_5",
+    "top_10",
+    "top_50",
+    "top_100",
+    "mrr"
+  ]
+}

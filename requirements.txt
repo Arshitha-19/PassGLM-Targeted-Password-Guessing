@@ -1,0 +1,12 @@
+pandas>=2.2,<3
+numpy>=2.0,<3
+tqdm>=4.66,<5
+matplotlib>=3.9,<4
+transformers==4.57.3
+datasets==4.4.1
+accelerate==1.12.0
+peft==0.18.0
+bitsandbytes==0.50.2
+safetensors>=0.5,<1
+# Install PyTorch separately with the CUDA wheel appropriate for your system.
+# The working environment used while building this project has torch 2.11.0+cu128.

@@ -1,0 +1,12 @@
+{
+  "mode": "pii",
+  "examples": 200,
+  "requested_candidates": 100,
+  "average_unique_candidates": 99.085,
+  "top_1": 0.115,
+  "top_5": 0.37,
+  "top_10": 0.48,
+  "top_50": 0.625,
+  "top_100": 0.71,
+  "mrr": 0.33257531104509436
+}

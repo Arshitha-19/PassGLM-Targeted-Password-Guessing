@@ -1,0 +1,2 @@
+# Change only this setting for the Top-100 rerun:
+GENERATION_BEAMS = 100

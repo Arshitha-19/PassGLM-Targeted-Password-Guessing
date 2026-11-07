@@ -1,0 +1,12 @@
+{
+  "mode": "combined",
+  "examples": 200,
+  "requested_candidates": 100,
+  "average_unique_candidates": 96.925,
+  "top_1": 0.235,
+  "top_5": 0.61,
+  "top_10": 0.725,
+  "top_50": 0.83,
+  "top_100": 0.865,
+  "mrr": 0.4738966023000836
+}
